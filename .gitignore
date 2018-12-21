@@ -1,0 +1,8 @@
+$ cat .gitignore
+*.[oa]
+*.vcxproj*
+*.sln
+
+bin/
+bin-inter/
+.vs/
