@@ -1,2 +1,2 @@
 # Scrabble
-A console version of a Scrabble game for programming my class at uniwersity.
+A console version of Scrabble for my programming class at university.
